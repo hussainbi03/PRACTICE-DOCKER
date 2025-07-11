@@ -1,1 +1,1 @@
-FROM alpine:3.14
+FROM almalunux:9
