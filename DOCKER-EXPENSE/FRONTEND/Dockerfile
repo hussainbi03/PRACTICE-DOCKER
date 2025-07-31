@@ -21,4 +21,4 @@ RUN touch /var/run/nginx.pid && \
 
 COPY nginx.conf /etc/nginx/nginx.conf
 COPY CODE /usr/share/nginx/html/
-USER nginx
+#USER nginx
